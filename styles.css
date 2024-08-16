@@ -213,8 +213,8 @@ footer {
         height: 12rem;
     }
 
-        #placeholder-image {
-            max-width: 50%;
-            height: auto;
-        }
+    #placeholder-image {
+        max-width: 50%;
+        height: auto;
+    }
 }

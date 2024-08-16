@@ -212,4 +212,9 @@ footer {
     textarea {
         height: 12rem;
     }
+    
+    #placeholder-image {
+        max-width: 50%;
+        height: auto;
+    }
 }
